@@ -1,0 +1,1 @@
+Hello! Welcome to my simple hashing algorithm!
